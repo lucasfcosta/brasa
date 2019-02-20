@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc -p .",
     "lint": "tslint --project tsconfig.json --exclude 'node_modules/**/*.{j,t}s'",
-    "test": "test"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
