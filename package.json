@@ -11,7 +11,7 @@
     "url": "git+https://github.com/lucasfcosta/brasa.git"
   },
   "author": "Lucas Fernandes da Costa <lucas@lucasfcosta.com>",
-  "license": "Apache-2.0",
+  "license": "GPLv2",
   "bugs": {
     "url": "https://github.com/lucasfcosta/brasa/issues"
   },
