@@ -1,5 +1,3 @@
-# brasa
+# brasa :fire:
 
-:fire: WIP.
-
-This is gonna be amazing.
+Brasa is a test-runner designed for extensibility.
