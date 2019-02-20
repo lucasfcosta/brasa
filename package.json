@@ -1,9 +1,10 @@
 {
   "name": "brasa",
   "version": "0.0.1",
-  "description": ":fire: WIP.",
+  "description": "An extensible JavaScript test-runner.",
   "main": "index.js",
   "scripts": {
+    "build": "tsc -p .",
     "test": "test"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/lucasfcosta/brasa/issues"
   },
-  "homepage": "https://github.com/lucasfcosta/brasa#readme"
+  "homepage": "https://github.com/lucasfcosta/brasa#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "typescript": "^3.3.3"
+  }
 }
